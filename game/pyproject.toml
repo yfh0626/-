@@ -1,0 +1,25 @@
+[project]
+name = "PySide Project"
+
+[tool.pyside6-project]
+files = [
+    "main.py",
+
+    "core/battle_state.py",
+    "core/movement.py",
+
+    "characters/character.py",
+    "characters/character_factory.py",
+    "characters/fire_mage.py",
+    "characters/space_mage.py",
+    "characters/birdman.py",
+
+    "skills/skill.py",
+    "skills/skill_factory.py",
+    "skills/basic_skills.py",
+    "skills/fire_mage_skills.py",
+    "skills/space_mage_skills.py",
+    "skills/birdman_skills.py",
+
+    "ui/skill_button.py"
+]

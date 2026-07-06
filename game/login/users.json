@@ -1,0 +1,30 @@
+{
+    "users": {
+        "uid": {
+            "hash": "ff+dOK9G5YlhLQVU+V0I2W1ehvAfN1tgNDdEG+ojFC0=",
+            "salt": "48qM3apNRR9g6t/Q64Vssg==",
+            "encrypted_pass": "gAAAAABqFa-2ARp6BheW_e5yzLJasphBuRRSr6V3wtt57lS0UmfplqQAmTZVAkQyphAMvsDiYvCbSVf0Q449qD95MCxmYXFhFw==",
+            "avatar": "login/avatars/uid.png",
+            "wins": 12,
+            "total_games": 19,
+            "last_hero": "fire_mage",
+            "last_skills": [
+                "normal_attack",
+                "dash",
+                "focus",
+                "area_blast",
+                "roll",
+                "piercing_shot"
+            ]
+        },
+        "vid": {
+            "hash": "VTUKvpTjFzq8FpFJ1eAO8dsJoABtZbS9tbAk3Npr8uY=",
+            "salt": "2o6bsnsUCqDOQhGD2F7KYw==",
+            "encrypted_pass": "gAAAAABqFbWYgp5o20xoYswG-citzGMfthTfcHvDoUdHKcZD6hL6jMnfz6VNKfFBW07aiyy4UuqtHlGUeaX-TpxUiojEo4JeQA==",
+            "avatar": "login/avatars/vid.png",
+            "wins": 0,
+            "total_games": 0
+        }
+    },
+    "remember_me": "uid"
+}
